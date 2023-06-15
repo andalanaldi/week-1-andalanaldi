@@ -1,0 +1,41 @@
+body {
+    background-color: #FAF6E9;
+    background: #FAF6E9;
+}
+
+.h1-style{
+   color: #494949;
+   font-family: Quicksand; 
+}
+
+.paragraph-style{
+    color: #494949;
+    font-family: Quicksand;
+}
+
+#sushi-aspiration {
+    font-weight: bolder;
+}
+
+.order-style{
+    list-style-type: disc;
+}
+
+.image-style{
+    width: 200px; 
+    border-radius: 20px;   
+}
+
+.button-style{
+    border-radius: 5px;
+    border: #929AAB;
+    background-color: #929AAB;
+    color: #FFFDF6;  
+    font-family: Quicksand;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.copyright-size{
+    font-size: 13px;
+}
