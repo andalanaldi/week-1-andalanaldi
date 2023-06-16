@@ -39,3 +39,59 @@ body {
 .copyright-size{
     font-size: 13px;
 }
+
+.anime-monday{
+    width: 200px; 
+    border-radius: 20px; 
+    position: relative;
+    animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+    from {left: 0px;}
+    to {left: 300px;}
+}
+
+.anime-roll{
+    width: 100px;
+    border-radius: 20px;
+    position: relative;
+    animation: example 5s infinite;
+    animation-direction: alternate-reverse;
+}
+
+@keyframes example {
+    0%   {left:0px; top:0px;}
+    25%  {left:200px; top:0px;}
+    50%  {left:200px; top:200px;}
+    75%  {left:0px; top:200px;}
+    100% {left:0px; top:0px;}
+  }
+
+.anime-egg{
+    width: 100px;
+    border-radius: 20px;
+    position: relative;
+    animation: myfirst 5s linear 2s infinite alternate;
+}
+
+@keyframes myfirst {
+    0%   {left:0px; top:0px;}
+    25%  {left:200px; top:0px;}
+    50%  {left:200px; top:200px;}
+    75%  {left:0px; top:200px;}
+    100% {left:0px; top:0px;}
+  }
+
+.anime-sushi{
+    width: 100px;
+    border-radius: 20px;
+    position: relative;
+    animation: mymotion 5s infinite;
+    animation-direction: alternate-reverse;
+}
+
+@keyframes mymotion {
+    from {left: 0px;}
+    to {left: 300px;}
+}
