@@ -38,7 +38,7 @@ The Aspiration will consist of this link:
 
 In the end, there will be a button which is located at the bottom before copyright. 
 
-There is an **update** that **animation and audio** are added to this site. Hence please do not block audio when the site is opened. **Nevertheless, audio mostly cannot be played in chromium based browser due to setings.** Hence, Please modify settings in Google chrome browser by :
+There is an **update** that **animation and audio** are added to this site. Hence please do not block audio when the site is opened. **Nevertheless, audio mostly cannot be played in chromium based browser due to setings. Hence, Please modify settings in Google chrome browser by :**
 1. Open Chrome. .
 2. At the top right, click More. Settings.
 3. Click Privacy and security. Site Settings. Sound.
@@ -47,4 +47,4 @@ There is an **update** that **animation and audio** are added to this site. Henc
 6. Add this site URL to **Allowed to play sound**.
 7. Refresh this site the Voila! The sound audio from this site will be played.
 
-The audio still could be opened in Mozilla Firefox browser wit settings modification.**
+The audio still could be opened in Mozilla Firefox browser with allow audio and video settings next to the site address.
