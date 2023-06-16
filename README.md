@@ -12,7 +12,7 @@ There is an **update** that **struggles in live** in this web is about questioni
 
 ![Aldi's Profile Picture](https://pbs.twimg.com/profile_images/1010774476185718785/fDrXMwWu_400x400.jpg)
 
-Here are the HTML and Javascript sample which are used in this profile site.
+Here are the HTML and Javascript samples which are used in this profile site.
 
 ```html
 <h1 class="h1-style">Hello Multiverse ! This is Aldi</h1>
@@ -45,6 +45,6 @@ There is an **update** that **animation and audio** are added to this site. Henc
 4. Select the option you want as your default setting. or,
 5. On Privacy and security click Additional content settings then choose sound.
 6. Add this site URL to **Allowed to play sound**.
-7. Refresh this site the Voila! The sound audio from this site will be played.
+7. Refresh this site then Voila! The sound audio from this site will be played automatically.
 
 The audio still could be opened in Mozilla Firefox browser with allow audio and video settings next to the site address.
