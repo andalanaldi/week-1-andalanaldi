@@ -37,3 +37,5 @@ The Aspiration will consist of this link:
 [link for Aspiration's link](https://linktr.ee/sushigoindonesia/)
 
 In the end, there will be a button which is located at the bottom before copyright. 
+
+There is an **update** that **animation and audio** are added to this site. Hence please do not block audio when the site is opened.
